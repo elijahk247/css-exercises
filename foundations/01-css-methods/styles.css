@@ -1,0 +1,13 @@
+/* External CSS 
+  goals: 
+    1. style the 'div' within the body. 
+    2. red background, white text, font size: 32px, center-aligned, bold
+*/ 
+
+div {
+  background-color: red;
+  color: white;
+  font-size: 32px;
+  text-align: center;
+  font-weight: bold;
+}
